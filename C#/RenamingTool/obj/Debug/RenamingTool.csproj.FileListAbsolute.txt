@@ -1,0 +1,10 @@
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\bin\Debug\RenamingTool.exe.config
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\bin\Debug\RenamingTool.exe
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\bin\Debug\RenamingTool.pdb
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\obj\Debug\RenamingTool.csprojAssemblyReference.cache
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\obj\Debug\RenamingTool.Properties.Resources.resources
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\obj\Debug\RenamingTool.csproj.GenerateResource.cache
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\obj\Debug\RenamingTool.csproj.CoreCompileInputs.cache
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\obj\Debug\RenamingTool.exe
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\obj\Debug\RenamingTool.pdb
+D:\01-Daily_Working\2019-02-14\project\RenamingTool\RenamingTool\obj\Debug\RenamingTool.Form1.resources
