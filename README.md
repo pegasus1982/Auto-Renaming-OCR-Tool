@@ -2,8 +2,8 @@
 Auto Renaming OCR Tool for Design Sketch PDF files
 
 ## Used Tech
-##### Tesseract OCR
 ##### C#
+##### Tesseract OCR
 ##### TallComponents.PDFRasterizer
 ##### Aforge.Net
 ##### EmguCV
